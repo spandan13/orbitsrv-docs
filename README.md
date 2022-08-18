@@ -1,2 +1,2 @@
 # pi-hosted
-Files for my RaspberryPi based home server
+Docker Compose and other files for my RaspberryPi based home server
