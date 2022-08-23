@@ -6,7 +6,7 @@ def rpi_temp():
     cpu_temp = os.popen("vcgencmd measure_temp").readline()
     return cpu_temp.replace("temp=", "")
 
-API_KEY = '5463095470:AAGS5HWBmhUGhl2KEtbFReZLqvNG6zcTTSs'
+API_KEY = ''
 updater = Updater(API_KEY, use_context=True)
     
 #while True:
