@@ -6,7 +6,7 @@
 ## Initial Set-up for the Display :
 * [Follow this guide](https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bullseye/)
 
-## Clone the python script :
+## Get the python script :
 ```
 wget https://raw.githubusercontent.com/spandan13/pi-hosted/main/OLED-Stats/stats.py
 ```
@@ -17,7 +17,7 @@ I'm using a simple cron job to do this.
 
 Add the following line
 
-` @reboot cd /path-to-script/ && python3 stats.py `
+` @reboot cd /path-to-script/ && python3 stats.py & `
 
 
 
