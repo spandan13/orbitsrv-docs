@@ -1,4 +1,5 @@
 # Original Script created by: Michael Klements - https://github.com/mklements/OLED_Stats/blob/main/stats.py
+# This is a modified version of the above script
 # For Raspberry Pi Desktop Case with OLED Stats Display
 # Base on Adafruit CircuitPython & SSD1306 Libraries
 # Installation & Setup Instructions - https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bullseye/
