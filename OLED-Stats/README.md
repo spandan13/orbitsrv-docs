@@ -11,13 +11,12 @@
 wget https://raw.githubusercontent.com/spandan13/pi-hosted/main/OLED-Stats/stats.py
 ```
 ## Start script at boot :
-I'm using a simple cron job to do this.
 
 ` crontab -e `
 
 Add the following line
 
-` @reboot cd /path-to-script/ && python3 stats.py & `
+` @reboot && python3 /path-to-script/stats.py & `
 
 
 
