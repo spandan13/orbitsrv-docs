@@ -16,7 +16,7 @@ wget https://raw.githubusercontent.com/spandan13/pi-hosted/main/OLED-Stats/stats
 
 Add the following line
 
-` @reboot && python3 /path-to-script/stats.py & `
+` @reboot python3 /path-to-script/stats.py & `
 
 
 
