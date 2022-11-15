@@ -9,6 +9,6 @@
 
 <h4 align="center">A RaspberryPi based mini home server based on <a href="https://pi-hosted.com/" target="_blank">Pi-Hosted</a>.</h4>
 
-![screenshot](https://i.imgur.com/e6POV6N.png)
+![screenshot](https://i.imgur.com/MVhyeYT.png)
 
 
